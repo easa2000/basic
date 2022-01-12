@@ -4,4 +4,6 @@ void main() {
     printf("Hello World");
     printf("\nMultiplication : ",a*b);
     printf("\n Division : ",a/b);
+    printf("\nAddition : " , a+b);
+    printf("\nSubtraction : ",a-b);
 }
